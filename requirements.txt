@@ -1,5 +1,6 @@
 asgiref==3.3.4
 Django==3.2.2
 django-user==0.2.1
+keras==2.8.0
 pytz==2021.1
 sqlparse==0.4.1
