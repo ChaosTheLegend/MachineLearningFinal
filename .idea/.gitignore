@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\UniRepos\MachineLearningFinalProject\.idea/dataSources/
+/../../../../:\UniRepos\FinalProjectSVM\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
